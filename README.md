@@ -1,47 +1,52 @@
 # 👋 Hi, I'm Regina Haley
 
-I'm an aspiring **Data Analyst** with a background in remote customer support, small business operations, and hands-on data projects using **SQL, Python, and Excel**.
+I'm a passionate and determined professional transitioning into the field of **data analytics** — a move inspired by curiosity and now driven by purpose.
 
-Currently enrolled in the **OpenClassrooms Data Analyst apprenticeship track**, I'm building a portfolio of real-world projects to demonstrate my skills and commitment to learning. My goal is to grow into a full-time analytics role and eventually work with **AI and machine learning**.
-
----
-
-## 💼 My Skills
-
-- **SQL** (SQLite, MySQL) – SELECT, JOINs, Group By, Subqueries, CRUD
-- **Python** – pandas, matplotlib, sqlite3
-- **Excel** – PivotTables, Charts, Data Cleanup
-- **Tools** – DB Browser for SQLite, VS Code, GitHub, Trello, Zoom
+What started as a personal interest quickly grew into a real calling. I've spent the past year immersing myself in **SQL**, **Excel**, and **Python**, building hands-on projects, completing self-directed training, and documenting everything in public. Every project in this portfolio is the result of consistent effort, real learning, and a genuine love for working with data.
 
 ---
 
-## 🧪 My Projects
+## 🎯 My Goal
 
-Here are a few examples of what I've built so far:
+I’m currently seeking a **data analyst apprenticeship** or **entry-level analyst role**, especially one where I can:
+- Learn under mentorship while applying real skills
+- Work with structured and messy datasets
+- Communicate insights clearly and meaningfully
+- Grow into a long-term career doing work I truly care about
 
-- 📊 [Customer Insights (Python)](https://github.com/ReginaHaley/Jupyter-customer-data) – Used pandas to filter and summarize customer data
-- 🗃️ [SQL Customer & Employee Database](https://github.com/ReginaHaley/SQLdatabase) – Queried structured data using JOINs and aggregations
-- 📈 [Excel Project Analysis](https://github.com/ReginaHaley/excel-project-management-analysis) – Used PivotTables and pie charts to visualize project loads
-
-📁 View my full portfolio:  
-👉 [https://github.com/ReginaHaley/data-portfolio](https://github.com/ReginaHaley/data-portfolio)
-
----
-
-## 📄 Resume
-
-- [Download PDF](https://github.com/ReginaHaley/resume/blob/main/Regina_Haley_Resume.pdf)
-- [View Markdown Resume](https://github.com/ReginaHaley/resume/blob/main/resume.md)
+### 🌱 Growth Mindset & Mentorship
+I’m actively seeking mentorship and take great pride in being both teachable and adaptable. I deeply respect those with more experience and am always eager to learn from their insights, guidance and constructive feedback.
 
 ---
 
-## ✨ Fun Fact
+## 🧰 Tools & Skills
 
-Before transitioning into tech, I ran a successful home-based reptile breeding business (🐍🦎) and worked in political communications. I bring that same attention to detail, adaptability, and strong communication to every data project I take on. Outside of work, I’m passionate about dog training and not just basic obedience, but competitive dog sport. It requires an advanced level of precision, self-discipline, and teamwork with a partner who doesn’t speak your language. The process teaches me to celebrate progress, stay grounded through challenges, and stay focused on long-term goals.
+- **SQL (MySQL, SQLite)** — joins, group by, subqueries, filtering
+- **Excel** — PivotTables, charts, conditional formatting, cleanup
+- **Python** — pandas, data frames, SQLite
+- **Tools** — GitHub, DB Browser, Jupyter, VS Code, Trello, Slack
 
 ---
 
-## 📬 Let's Connect
+## 📂 Featured Projects
 
-- 📧 Email: reginahaley15@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/reginahaley](https://www.linkedin.com/in/reginahaley)  
+- [📊 Customer Insights (Python + SQLite)](https://github.com/ReginaHaley/Jupyter-customer-data)  
+- [🗂️ Employees & Customers SQL Database](https://github.com/ReginaHaley/SQLdatabase)  
+- [📈 Excel Project Management Analysis](https://github.com/ReginaHaley/excel-project-management-analysis)  
+- [💼 Resume](https://github.com/ReginaHaley/resume)
+
+For a full walkthrough of all my work, check out my [main portfolio](https://github.com/ReginaHaley/data-portfolio) repo.
+
+---
+
+## 💬 A Little More About Me
+
+I’ve worked remotely for years in both support and operations — tracking performance, keeping things organized and communicating clearly with customers and teammates. I’ve run my own business, worked in politics, and supported campaigns. But now, I’m fully committed to data analytics.
+
+I’m not just changing careers, I’m answering a calling. This path means everything to me and I’m prepared to work relentlessly, keep learning and do whatever is required to earn this opportunity and succeed.
+
+---
+
+📬 **Let’s connect:**  
+[LinkedIn](https://linkedin.com/in/reginahaley) | [View My Resume](https://github.com/ReginaHaley/resume/blob/main/Regina_Haley_Data_Analyst_Resume.pdf)
+
