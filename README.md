@@ -2,7 +2,7 @@
 
 I'm a passionate and determined professional transitioning into the field of **data analytics** — a move inspired by curiosity and now driven by purpose.
 
-What started as a personal interest quickly grew into a real calling. I've spent the past year immersing myself in **SQL**, **Excel**, and **Python**, building hands-on projects, completing self-directed training, and documenting everything in public. Every project in this portfolio is the result of consistent effort, real learning, and a genuine love for working with data.
+I’ve always loved solving puzzles and finding hidden patterns. My favorite board game growing up was Clue and I dreamed of being a detective, the kind that pieces together clues to solve mysteries. When I found data analytics, it clicked, it gave me a way to channel that curiosity and problem-solving into something real and impactful. It feels like solving a puzzle with purpose, and I knew right away this was the career for me.
 
 ---
 
@@ -41,7 +41,7 @@ For a full walkthrough of all my work, check out my [main portfolio](https://git
 
 ## 💬 A Little More About Me
 
-I’ve worked remotely for years in both support and operations — tracking performance, keeping things organized and communicating clearly with customers and teammates. I’ve run my own business, worked in politics, and supported campaigns. But now, I’m fully committed to data analytics.
+I’ve worked remotely for years in both support and operations such as tracking performance, keeping things organized and communicating clearly with customers and teammates. I’ve run my own business, worked in politics and supported campaigns. But now, I’m fully committed to data analytics.
 
 I’m not just changing careers, I’m answering a calling. This path means everything to me and I’m prepared to work relentlessly, keep learning and do whatever is required to earn this opportunity and succeed.
 
