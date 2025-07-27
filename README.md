@@ -50,3 +50,8 @@ I’m not just changing careers, I’m answering a calling. This path means ever
 📬 **Let’s connect:**  
 [LinkedIn](https://linkedin.com/in/reginahaley) | [View My Resume](https://github.com/ReginaHaley/resume/blob/main/Regina_Haley_Data_Analyst_Resume.pdf)
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+
+
