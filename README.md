@@ -49,6 +49,18 @@ I’m not just changing careers, I’m answering a calling. This path means ever
 
 📬 **Let’s connect:**  
 [LinkedIn](https://linkedin.com/in/reginahaley) | [View My Resume](https://github.com/ReginaHaley/resume/blob/main/Regina_Haley_Data_Analyst_Resume.pdf)
+<p align="center">
+  <a href="https://orcid.org/YOUR_ORCID_ID" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/ORCID_iD.svg" width="40" alt="ORCID"/>
+  </a>
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_PROFILE" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_icon.svg" width="40" alt="LinkedIn"/>
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
