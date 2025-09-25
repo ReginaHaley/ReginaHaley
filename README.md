@@ -1,3 +1,5 @@
+## Career Changer and barrier buster.  In technology, there are no real limitations...only challenges waiting for solutions.
+
 # 👋 Hi, I'm Regina Haley
 
 I’m a passionate and determined professional transitioning into the fields of **data analytics and software development**.. a move inspired by curiosity and now driven by purpose.  
