@@ -37,7 +37,7 @@ This portfolio represents my journey: not just learning technologies one by one,
 - [📊 Customer Insights (Python + SQLite)](https://github.com/ReginaHaley/Jupyter-customer-data)  
 - [🗂️ Employees & Customers SQL Database](https://github.com/ReginaHaley/SQLdatabase)  
 - [📈 Excel Project Management Analysis](https://github.com/ReginaHaley/excel-project-management-analysis)  
-- [💼 Resume](https://github.com/ReginaHaley/resume)
+
 
 For a full walkthrough of all my work, check out my [main portfolio](https://github.com/ReginaHaley/data-portfolio) repo.
 
